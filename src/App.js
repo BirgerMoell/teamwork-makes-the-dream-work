@@ -10,7 +10,7 @@ function App() {
         <h3>
          Teamwork Makes The Dream Work
         </h3>
-        <p>An experiment in collaboration</p>
+        <p>An experiment in conscious collaboration</p>
 
         </div>
 
