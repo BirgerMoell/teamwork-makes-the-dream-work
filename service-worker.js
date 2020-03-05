@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teamwork-makes-the-dream-work/precache-manifest.982c420a9eb519f2f9bfe6ae6d73bda0.js"
+  "/teamwork-makes-the-dream-work/precache-manifest.5aa605f17f2aa39435bd0aee5c7aaed0.js"
 );
 
 self.addEventListener('message', (event) => {
