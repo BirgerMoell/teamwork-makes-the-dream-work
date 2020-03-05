@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teamwork-makes-the-dream-work/static/css/main.4a5affc1.chunk.css",
+    "main.js": "/teamwork-makes-the-dream-work/static/js/main.46149303.chunk.js",
+    "main.js.map": "/teamwork-makes-the-dream-work/static/js/main.46149303.chunk.js.map",
+    "runtime-main.js": "/teamwork-makes-the-dream-work/static/js/runtime-main.966a85eb.js",
+    "runtime-main.js.map": "/teamwork-makes-the-dream-work/static/js/runtime-main.966a85eb.js.map",
+    "static/js/2.fd342c69.chunk.js": "/teamwork-makes-the-dream-work/static/js/2.fd342c69.chunk.js",
+    "static/js/2.fd342c69.chunk.js.map": "/teamwork-makes-the-dream-work/static/js/2.fd342c69.chunk.js.map",
+    "index.html": "/teamwork-makes-the-dream-work/index.html",
+    "precache-manifest.982c420a9eb519f2f9bfe6ae6d73bda0.js": "/teamwork-makes-the-dream-work/precache-manifest.982c420a9eb519f2f9bfe6ae6d73bda0.js",
+    "service-worker.js": "/teamwork-makes-the-dream-work/service-worker.js",
+    "static/css/main.4a5affc1.chunk.css.map": "/teamwork-makes-the-dream-work/static/css/main.4a5affc1.chunk.css.map",
+    "static/js/2.fd342c69.chunk.js.LICENSE.txt": "/teamwork-makes-the-dream-work/static/js/2.fd342c69.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/teamwork-makes-the-dream-work/static/media/teamwork.f6ce7f19.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.966a85eb.js",
+    "static/js/2.fd342c69.chunk.js",
+    "static/css/main.4a5affc1.chunk.css",
+    "static/js/main.46149303.chunk.js"
+  ]
+}
